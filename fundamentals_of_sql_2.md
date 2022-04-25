@@ -131,7 +131,7 @@ INSERT INTO prefectures (name) VALUES
 # prefecturesテーブルのnameカラムに、各都道府県(値)を挿入する
 
 INSERT INTO users (prefecture_id, name) VALUES
-(12, 'mike'),
+(14, 'mike'),
 (10, 'david'),
 (1, 'karen'),
 (3, 'emma'),
